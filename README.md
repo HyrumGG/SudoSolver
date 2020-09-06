@@ -5,5 +5,11 @@ A Sudoku Game Solver developed using recursive backtracking. There are two revis
 
 
 Requirements
+------------------
 In order to use the visualized revision of the application you must install pygame.
 After installing pygame run the visualized.py file with python
+
+Images
+------------------
+![Sudoku Visualization](imgs/visualized.gif)
+![Sudoku Terminal](imgs/terminal.PNG)
