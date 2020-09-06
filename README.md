@@ -12,4 +12,5 @@ After installing pygame run the visualized.py file with python
 Images
 ------------------
 ![Sudoku Visualization](imgs/visualized.gif)
+
 ![Sudoku Terminal](imgs/terminal.PNG)
