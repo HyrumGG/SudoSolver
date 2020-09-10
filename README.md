@@ -1,15 +1,12 @@
-SudoSolver
-------------------
-A Sudoku Game Solver developed using recursive backtracking. There are two revisions of the solver, one printing text to a console, and a visualized revision using pygame
+# SudoSolver
+A Sudoku Game Solver developed using recursive backtracking that reads in a valid 9x9 sudoku grid, solves and prints the given grid to the command line.
 
+## Assumptions:
+The application must be passed a valid Sudoku Board (9x9) as a text file.
 
+### Instructions
+- Make sure the text file in proper format is in the same directory as the application
+- run the application by typing "python3 app.py (text file)" or "./app.py (text file)"
 
-Requirements
-------------------
-In order to use the visualized revision of the application you must install pygame.
-After installing pygame run the visualized.py file with python
-
-Images
-------------------
-![Sudoku Visualization](imgs/visualized.gif)
+### Images
 ![Sudoku Terminal](imgs/terminal.PNG)
