@@ -1,5 +1,5 @@
 # SudoSolver
-A Sudoku Game Solver developed using recursive backtracking that reads in a valid 9x9 sudoku grid, solves and prints the given grid to the command line.
+A Sudoku Game Solver developed using recursive backtracking that reads in a valid 9x9 sudoku grid from a specified text file, solves and prints the solved board to the command line.
 
 ## Assumptions:
 The application must be passed a valid Sudoku Board (9x9) as a text file.
